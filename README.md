@@ -5,5 +5,5 @@ In this capstone, we will predict if the Falcon 9 first stage will land successf
 
 ### Objectives
 * Exploratory data analysis through data wrangling, data collection, data visualization, model deployment and evaluation
-* Applied data science and machine learning to inform SpaceX decison to launch the first rocket
+* Application of data science and machine learning to inform SpaceX decison to launch the first rocket
 
